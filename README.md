@@ -6,24 +6,18 @@ Hanabi is a cooperative card game where players work together to create perfect 
 
 ## My Contributions — Yuxin Xie
 
-- Implemented the lobby, help, game setup, waiting-room and in-game
-  interfaces, including the game-over popup, using Python and Pygame.
-- Developed game logic and related methods, with selected methods
-  further developed and optimized by teammates.
-- Implemented in-game state synchronization using the team's
-  client–server communication infrastructure.
-- Added storm-card mechanics, the Farbrausch variant, game-state
-  saving and language-switching functionality.
+- Developed the GUI for most application pages, including the lobby, help, game setup, waiting room and in-game screens, as well as the game-over popup.
+- Developed game basic logic and related methods.
+- Implemented in-game state synchronization using the team's client–server communication infrastructure.
+- Added storm-card mechanics, the Farbrausch variant, game-state saving and language-switching functionality.
 - Implemented the English version of the in-game interface.
 - Created the class diagram and finalized the README.
 
-## Team Contributions
+## Other Team Members
 
-| Member | Main contributions |
-| --- | --- |
-| Emma | Controller implementation; development and optimization of selected game-logic methods; tests; German translations; class-diagram improvements; English versions of the game setup and waiting-room pages. |
-| Hanna | Project structure; development and optimization of selected game-logic methods; prototype; lobby-to-game integration; initial README; documentation formatting; English game rules. |
-| Kailai | User stories; state and sequence diagrams; client–server communication; messaging protocol; login page; configuration; real-time lobby updates, including chat, online users and the game list. |
+- **Emma:** Testing and interface translation.
+- **Hanna:** Project structure, prototyping, and documentation.
+- **Kailai:** Client–server communication, messaging protocol, login functionality, real-time lobby updates, and design diagrams.
 
 ## Features
 - Multiplayer support for 2-4 players
