@@ -1,0 +1,96 @@
+Hanabi Game Rules
+
+## The Term "Hanabi"
+
+The term Hanabi comes from Japanese and means "fire flower" or "fireworks." In this game, players work together to create a spectacular fireworks display. The game is cooperative, meaning all players play as a team. Only by working together can they impress the audience and please the gods.
+---
+
+## Game Components: 
+- 50 Fireworks Cards in five colors (Red, Yellow, Green, Blue, Purple). Each color has 10 cards with values: 1, 1, 1, 2, 2, 3, 3, 4, 4, 5.
+- 10 Multicolored Fireworks Cards with the same values.
+- 8 Hint Tokens (+1 spare).
+- 3 Storm Tokens.
+---
+
+## Objective of the Game:
+Hanabi is a cooperative game where all players work together. The goal is to play the fireworks cards in ascending order by color. However, players cannot see their own cards and must rely on hints from their teammates. The more cards placed correctly, the higher the final score.
+---
+
+## Game Setup
+Host:
+- The player who creates the game room becomes the host. The host starts the game and can adjust settings like difficulty or expansions.
+Card Distribution:
+- Cards are dealt virtually by the system. Each player only sees the back of their own cards, while the front is visible to teammates. Hint and storm tokens are automatically managed and displayed.
+Game Interface:
+- The interface shows all necessary game information: available tokens, card sequences, and progress. The system determines the play order and indicates whose turn it is.
+Starting the Game:
+- Once the host starts the game, the first player takes their turn.
+---
+
+## Gameplay
+Players take turns, and on their turn, they must choose exactly one of the following actions:
+1. Give a Hint
+- The player provides information to a teammate about their hand. 
+- A hint token is used, reducing the total available hints. 
+- Hints can reveal either the color or the number of the cards:
+-- Color Hint: "Player A tells Player B they have yellow cards."
+-- Number Hint: "Player A tells Player B about their card with the number 1."
+- Effect: The cards affected by the hint change color or number highlighting to reflect the information.
+- If no hint tokens are left, this action cannot be performed.
+
+2. Discard a Card
+- The player selects a card to discard.
+- A used hint token is returned.
+- The player draws a new card, but they cannot see its front side.
+
+3. Play a Card
+- The player selects a card to play. Two outcomes are possible:
+- Correct Play: The card continues or starts a fireworks sequence.
+- Incorrect Play: A storm token is flipped, and the card is discarded.
+---
+
+## The Fireworks
+- Fireworks sequences are divided into five colors. Each sequence starts with a "1" card. Each following card must be exactly 1 higher than the previous one.
+A number cannot appear twice in the same color sequence.
+
+- Bonus:
+Completing a sequence with a "5" card restores a used hint token.
+---
+
+## End of the Game
+The game ends in three ways:
+
+- Third Storm Token is Flipped:
+The gods send a storm, and the game ends immediately with a score of 0.
+
+- All Fireworks Sequences are Completed:
+Players achieve 25 points and win spectacularly.
+
+- The Last Card is Drawn:
+Each player gets one final turn.
+---
+
+## Scoring:
+The highest number in each completed color sequence is added. Fireworks quality is rated as follows:
+0-5 points: "Oh no! The audience boos."
+6-10 points: "Weak! Barely any applause."
+11-15 points: "Okay! The audience expected more."
+16-20 points: "Good! The audience is pleased."
+21-24 points: "Very good! The audience is excited."
+25 points: "Legendary! The audience will never forget this show."
+---
+
+## Variants
+- Adjusting Difficulty
+Too easy? Play with 1 or 2 storm tokens.
+Too hard? Add an extra hint token.
+
+- Color Frenzy Mode
+Add the 10 multicolored fireworks cards as a 6th color.
+The max score increases to 30.
+For an extra challenge, only add 5 multicolored cards (values 1-5).
+
+- Color Frenzy² Mode
+Similar to Color Frenzy, but the multicolored cards do not have their own color.
+Instead, they must be considered for all color hints.
+Example: "You have three blue cards, here, here, and here."

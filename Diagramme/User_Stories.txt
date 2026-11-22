@@ -1,0 +1,32 @@
+#Hinweisgeber 
+
+Usersstory:  „Als Hinweisgeber möchte ich anderen Spielern Hinweise auf die Farbe oder Zahl ihrer Karten geben, damit sie besser entscheiden können, welche Karten sie ausspielen oder abwerfen sollen.“
+
+Funktionsbeschreibung:
+
+  Ziel: Den anderen Spielern helfen, ihre Karten durch Hinweise besser zu verstehen.
+  Aktion: Einen Spieler auswählen und entweder einen Farb- oder Zahlenhinweis geben (z. B. „Blau“ oder „1“).
+  Einschränkung: Die Anzahl der Hinweise ist begrenzt.
+  Rückmeldung: Die Karten des Zielspielers werden mit Hinweisen markiert.
+
+
+#Spieler 
+Usersstory: „Als Spieler möchte ich die Hinweise von anderen Spielern sehen, damit ich entscheiden kann, welche Karte ich ausspiele oder abwerfe.“
+
+Funktionsbeschreibung:
+
+  Ziel: Basierend auf den erhaltenen Hinweisen Karten richtig ausspielen oder abwerfen.
+  Aktion:Hinweise (Farbe oder Zahl) ansehen.
+               „Ausspielen“ oder „Abwerfen“ auswählen.
+  Rückmeldung: Nach dem Ausspielen wird der Punktestand aktualisiert, Abwerfen erhöht die Anzahl der Hinweismarken.
+
+
+
+#Beobachter 
+Usersstory: „Als Beobachter möchte ich den aktuellen Spielzustand, die Hinweise auf den Karten der Spieler, die Punkte und den verbleibenden Kartenstapel sehen, damit ich den Spielverlauf verfolgen kann.“
+
+Funktionsbeschreibung:
+
+  Ziel: Den Spielzustand beobachten, einschließlich der Hinweise auf Karten, Punkte und des Kartenstapels.
+  Aktion: Keine Aktion erforderlich, nur die Anzeige beobachten.
+  Rückmeldung: Das Interface zeigt die Kartenhinweise, den Ablagestapel, den verbleibenden Kartenstapel und den aktuellen Punktestand an.

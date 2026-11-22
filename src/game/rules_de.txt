@@ -1,0 +1,105 @@
+## Der Begriff „Hanabi“
+Der Begriff „Hanabi“ kommt aus dem Japanischen und bedeutet „Feuerblume“ oder „Feuerwerk“. Wie beim echten Hanabi versuchen die Spieler, ein bombastisches Feuerwerk an den Himmel zu zaubern. Dabei spielen alle zusammen in einem Team. Nur mit vereinten Kräften wird es den Spielern gelingen, die Zuschauer zu begeistern und die Götter zu erfreuen.
+
+---
+
+## Spielmaterial
+- 50 Feuerwerkskarten in fünf Farben (Rot, Gelb, Grün, Blau, Lila) . Je 10 Karten pro Farbe mit den Werten 1, 1, 1, 2, 2, 3, 3, 4, 4, 5.
+- 10 bunte Feuerwerkskarten mit den Werten 1, 1, 1, 2, 2, 3, 3, 4, 4, 5.
+- 8 Hinweis-Plättchen (+ 1 als Ersatz).
+- 3 Gewitter-Plättchen.
+
+---
+
+## Spielziel
+Hanabi ist ein kooperatives Spiel. Das bedeutet, alle Spieler spielen zusammen in einem Team. Ziel ist es, die Feuerwerkskarten nach Farben und Zahlen geordnet auszuspielen. Dabei sehen die Spieler ihre eigenen Handkarten nicht und müssen auf die Hinweise ihrer Mitspieler vertrauen. Je mehr Karten die Spieler fehlerfrei ausspielen, desto mehr Punkte erhalten sie am Ende des Spiels.
+
+---
+
+## Spielvorbereitung
+1. Host:
+Der Spieler, der das Spielzimmer eröffnet, wird automatisch zum Host ernannt. Der Host startet das Spiel und kann bei Bedarf Einstellungen wie Schwierigkeitsgrad oder Erweiterungen festlegen.
+
+2. Kartenzuteilung:
+- Die Karten werden virtuell durch das System an die Spieler verteilt. Jeder Spieler sieht nur die Rückseiten seiner Karten, während die Vorderseiten für die Mitspieler sichtbar sind.  
+- Hinweis- und Gewitter-Plättchen werden ebenfalls automatisch verwaltet und angezeigt.
+
+3. Spieloberfläche:  
+- Die Benutzeroberfläche zeigt alle relevanten Informationen wie verbleibende Plättchen, Kartenreihen und den Fortschritt klar an.  
+- Das System legt die Spielreihenfolge fest und zeigt an, welcher Spieler am Zug ist.
+
+4. Spielstart:  
+Sobald der Host das Spiel startet, beginnt der erste Spieler mit seinem Zug.
+
+---
+
+## Spielablauf
+Das Spiel wird reihum gespielt. Kommt ein Spieler an die Reihe, muss er genau eine der folgenden Aktionen wählen:
+
+1. Einen Hinweis geben
+- Der Spieler gibt einem Mitspieler Informationen über dessen Handkarten.
+- Es wird eine Hinweiskarte verwendet und die Anzahl der Hinweiskarten wird reduziert.
+- Hinweise können entweder die Farbe oder den Zahlenwert der Karten betreffen:
+-·- Farbhinweis: „Spieler A informiert Spieler B über Karten mit der Farbe Gelb.“  
+-·- Zahlenhinweis: „Spieler A erzählt Spieler B von der Karte mit der Nummer 1.“  
+- Effekt nach dem Hinweis: Nach dem Hinweis ändern die entsprechenden Karten automatisch ihre Hintergrundfarbe oder Zahlenfarbe, um die Information hervorzuheben.
+- Wenn keine Hinweis-Plättchen mehr verfügbar sind, kann diese Aktion nicht ausgeführt werden.
+
+2. Eine Karte abwerfen
+- Der Spieler wählt eine Karte aus seiner Hand, die auf den Ablagestapel gelegt wird.
+- Ein verbrauchtes Hinweis-Plättchen wird automatisch zurückgegeben.  
+- Der Spieler erhält eine neue Karte aus dem Nachziehstapel, deren Vorderseite er nicht sieht.
+
+3. Eine Karte ausspielen
+- Der Spieler wählt eine Karte aus seiner Hand, die gespielt wird. Es gibt zwei Möglichkeiten:  
+-·- Passend: Die Karte ergänzt eine bestehende Farbreihe oder startet eine neue Reihe.  
+-·- Unpassend: Ein Gewitter-Plättchen wird umgedreht, und die Karte wird auf den Ablagestapel gelegt.  
+
+---
+
+## Das Feuerwerk
+- Die Farbreihen sind in fünf Farben unterteilt.  
+- Jede Reihe beginnt mit einer Karte mit dem Wert 1.  
+- Weitere Karten müssen genau um 1 höher sein als die vorherige.  
+- Kein Zahlenwert darf in einer Farbreihe doppelt vorkommen.  
+
+Bonus:
+- Wird eine Reihe mit der Karte „5“ vervollständigt, wird ein benutztes Hinweis-Plättchen auf die weiße Seite zurückgedreht.
+
+---
+
+## Spielende
+Das Spiel endet auf drei Arten:
+1. Das dritte Gewitter-Plättchen wird umgedreht.
+-·- Die Götter senden ein Unwetter. Das Spiel endet sofort, und die Spieler erhalten 0 Punkte.
+2. Alle Farbreihen sind vollständig.
+-·- Die Spieler erzielen 25 Punkte und feiern einen spektakulären Sieg!
+3. Die letzte Karte wird vom Nachziehstapel gezogen.  
+-·- Jeder Spieler hat noch genau einen letzten Zug.
+
+Am Ende wird das Feuerwerk gewertet:  
+- Die höchsten Zahlenwerte jeder Farbreihe werden addiert.  
+- Die Qualität des Feuerwerks wird wie folgt bewertet:  
+-·- 0-5 Punkte: Oje! Die Zuschauer buhen.  
+-·- 6-10 Punkte: Schwach! Kaum Applaus.  
+-·- 11-15 Punkte: OK! Die Zuschauer sind Besseres gewohnt.  
+-·- 16-20 Punkte: Gut! Die Zuschauer sind erfreut.  
+-·- 21-24 Punkte: Sehr gut! Die Zuschauer sind begeistert.  
+-·- 25 Punkte: Legendär! Die Zuschauer werden diese Show nie vergessen.
+
+---
+
+## Varianten
+1. Schwierigkeitsgrad anpassen
+- Zu einfach? Spielen Sie mit 1 oder 2 Gewitter-Plättchen.  
+- Zu schwer? Fügen Sie ein Ersatz-Hinweis-Plättchen hinzu.
+
+2. Farbrausch
+- Mischen Sie die 10 bunten Feuerwerkskarten als 6. Farbe hinzu.  
+- Die maximale Punktzahl erhöht sich auf 30.  
+- Für eine größere Herausforderung mischen Sie nur 5 bunte Karten (Werte 1-5).
+
+### Farbrausch²
+- Wie beim Farbrausch, aber es gibt keine Farbe „Bunt“.  
+- Stattdessen müssen bunte Karten bei allen Farb-Hinweisen angezeigt werden.  
+	- Beispiel: „Du hast drei blaue Karten, hier, hier und hier.“
