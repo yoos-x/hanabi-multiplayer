@@ -1,7 +1,4 @@
-# hp2425-4b
-
-
-## Hanabi Game Implementation
+# Hanabi Game Implementation
 The implementation of the cooperative card game Hanabi using Python and Pygame. It is a four-person university team project at LMU Munich during the winter semester 2024/25.
 
 ## Overview
