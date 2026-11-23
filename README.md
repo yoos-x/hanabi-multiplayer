@@ -4,20 +4,12 @@ The implementation of the cooperative card game Hanabi using Python and Pygame. 
 ## Overview
 Hanabi is a cooperative card game where players work together to create perfect firework displays. The unique part is that players can see everyone's cards except their own, requiring careful communication and teamwork.
 
-## My Contributions — Yuxin Xie
+## Team Contributions
 
-- Developed the GUI for most application pages, including the lobby, help, game setup, waiting room and in-game screens, as well as the game-over popup.
-- Developed game basic logic and related methods.
-- Implemented in-game state synchronization using the team's client–server communication infrastructure.
-- Added storm-card mechanics, the Farbrausch variant, game-state saving and language-switching functionality.
-- Implemented the English version of the in-game interface.
-- Created the class diagram and finalized the README.
-
-## Other Team Members
-
-- **Emma:** Testing and interface translation.
-- **Hanna:** Project structure, prototyping, and documentation.
-- **Kailai:** Client–server communication, messaging protocol, login functionality, real-time lobby updates, and design diagrams.
+- **Emma** — Testing and German translation.
+- **Hanna** — Project structure, prototyping, lobby-to-game integration, initial README, and documentation formatting.
+- **Kailai** — Client–server communication, messaging protocol, login screen, `config.json`, and real-time lobby synchronization.
+- **Yuxin Xie** — Most game screens, core game logic, real-time game-state synchronization, storm cards, game saving, language switching, the Farbrausch variant, English in-game UI, the class diagram, and final README edits.
 
 ## Features
 - Multiplayer support for 2-4 players
