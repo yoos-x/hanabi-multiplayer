@@ -7,9 +7,9 @@ Hanabi is a cooperative card game where players work together to create perfect 
 ## Team Contributions
 
 - **Emma** — Testing and German translation.
-- **Hanna** — Project structure, prototyping, lobby-to-game integration, initial README, and documentation formatting.
+- **Hanna** — Project structure, prototyping, lobby-to-game integration, and documentation formatting.
 - **Kailai** — Client–server communication, messaging protocol, login screen, `config.json`, and real-time lobby synchronization.
-- **Yuxin** — Most game screens, core game logic, real-time game-state synchronization, storm cards, game saving, language switching, the Farbrausch variant, English in-game UI, the class diagram, and final README edits.
+- **Yuxin** — Most game screens, core game logic, real-time game-state synchronization, storm cards, game saving, language switching, the Farbrausch variant.
 
 ## Features
 - Multiplayer support for 2-4 players
